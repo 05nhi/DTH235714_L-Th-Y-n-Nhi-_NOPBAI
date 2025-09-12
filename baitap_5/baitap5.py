@@ -1,1 +1,0 @@
-print('Lê Thị Yến Nhi')
